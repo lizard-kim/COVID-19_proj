@@ -6,7 +6,7 @@
 
 - Main page (Django 3.0.3, python 3.6)
 
-  `$ cd COVID_19
+  `$ cd COVID_19`
 
   `$ pip install -r requirements.txt `
 
